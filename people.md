@@ -3,7 +3,8 @@
 # People
 ## Karel Janko
 **Head of the lab**
-scholar
+
+[scholar](https://scholar.google.com/citations?user=azHnMBgAAAAJ&hl=en&oi=ao)
 
 ## Jan Kočí
-scholar | researchgate
+[scholar](https://scholar.google.com/citations?user=T-A4CwMAAAAJ&hl=en&oi=sra) | researchgate

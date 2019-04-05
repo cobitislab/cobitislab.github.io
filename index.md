@@ -1,4 +1,4 @@
-[Home](index.html) \ [People](people.html) \ [Publications](publications.html) \ [Data](data.html) \ [Projects](projects.html)
+**[Home](index.html) \ [People](people.html) \ [Publications](publications.html) \ [Data](data.html) \ [Projects](projects.html)**
 
 # Origins
 Our team is part of larger [Laboratory of Fish Genetics](http://www.iapg.cas.cz/en/laboratories/lgr/Research/) at the Institute of Animal Physiology and Genetics of Czech Academy of Science, located in Liběchov, Czechia.

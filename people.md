@@ -15,3 +15,8 @@
 
 **Jan Röslein**
 [researchgate](https://www.researchgate.net/profile/Jan_Roeslein)
+
+### Collaborators
+**Jan Pačes, PhD**
+
+**Jan Eisner, PhD**

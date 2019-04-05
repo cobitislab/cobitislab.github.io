@@ -1,10 +1,20 @@
-[Home](index.html) | [People](people.html) | [Publications](publications.html) | [Data](data.html) | [Projects](projects.html)
+---
+title: People
+menus: header
+---
 
 # People
-## Karel Janko
-**Head of the lab**
-
+## Team leader
+### Karel Janko, PhD
 [scholar](https://scholar.google.com/citations?user=azHnMBgAAAAJ&hl=en&oi=ao)
 
-## Jan Kočí
+## PhD students
+### Jan Kočí
 [scholar](https://scholar.google.com/citations?user=T-A4CwMAAAAJ&hl=en&oi=sra) | researchgate
+
+### Alena Zikmundová
+
+### Oldřich Bartoš
+
+### Jan Röslein
+

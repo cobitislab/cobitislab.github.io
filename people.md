@@ -1,17 +1,17 @@
 [Home](index.html) | [People](people.html) | [Publications](publications.html) | [Data](data.html) | [Projects](projects.html)
 
 # People
-## Team leader
-### Karel Janko, PhD
+### Team leader
+#### Karel Janko, PhD
 [scholar](https://scholar.google.com/citations?user=azHnMBgAAAAJ&hl=en&oi=ao)
 
-## PhD students
-### Jan Kočí
+### PhD students
+#### Jan Kočí
 [scholar](https://scholar.google.com/citations?user=T-A4CwMAAAAJ&hl=en&oi=sra) | researchgate
 
-### Alena Zikmundová
+#### Alena Zikmundová
 
-### Oldřich Bartoš
+#### Oldřich Bartoš
 
-### Jan Röslein
+#### Jan Röslein
 

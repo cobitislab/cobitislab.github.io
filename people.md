@@ -7,11 +7,11 @@
 
 ### PhD students
 #### Jan Kočí
-[scholar](https://scholar.google.com/citations?user=T-A4CwMAAAAJ&hl=en&oi=sra) | researchgate
+[scholar](https://scholar.google.com/citations?user=T-A4CwMAAAAJ&hl=en&oi=sra) | [researchgate](https://www.researchgate.net/profile/Jan_Koci2)
 
 #### Alena Zikmundová
 
 #### Oldřich Bartoš
 
 #### Jan Röslein
-
+[researchgate](https://www.researchgate.net/profile/Jan_Roeslein)

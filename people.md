@@ -16,7 +16,11 @@
 **Jan Röslein**
 [researchgate](https://www.researchgate.net/profile/Jan_Roeslein)
 
+**Anatol Marta**
+
 ### Collaborators
+**Zuzana Majtánová, PhD** [researchgate](https://www.researchgate.net/profile/Zuzana_Majtanova)
+
 **Jan Pačes, PhD**
 
 **Jan Eisner, PhD**

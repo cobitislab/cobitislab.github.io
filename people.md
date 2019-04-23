@@ -27,9 +27,19 @@
 **Anatol Marta**
 
 ### Collaborators
-**Zuzana Majtánová, PhD (IAPG CAS)** [researchgate](https://www.researchgate.net/profile/Zuzana_Majtanova)
+**Lukáš Choleva, PhD (IAPG CAS)**
+[scholar](https://scholar.google.com/citations?user=FH-hkZ8AAAAJ&hl=en)
+
+**Zuzana Majtánová, PhD (IAPG CAS)**
+[researchgate](https://www.researchgate.net/profile/Zuzana_Majtanova)
 
 **Jan Pačes, PhD (IMG CAS)**
 [orcid](http://orcid.org/0000-0003-3059-6127)
+
+**Jan Kotusz, PhD (University of Wroclaw)**
+[scholar](https://scholar.google.com/citations?user=pmbgn-kAAAAJ&hl=en)
+
+**Pavel Drozd, PhD (University of Ostrava)**
+[scholar](https://scholar.google.com/citations?user=JRjv9p0AAAAJ&hl=en)
 
 **Jan Eisner, PhD**

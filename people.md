@@ -27,9 +27,9 @@
 **Anatol Marta**
 
 ### Collaborators
-**Zuzana Majtánová, PhD** [researchgate](https://www.researchgate.net/profile/Zuzana_Majtanova)
+**Zuzana Majtánová, PhD (IAPG CAS)** [researchgate](https://www.researchgate.net/profile/Zuzana_Majtanova)
 
-**Jan Pačes, PhD**
+**Jan Pačes, PhD (IMG CAS)**
 [orcid](http://orcid.org/0000-0003-3059-6127)
 
 **Jan Eisner, PhD**

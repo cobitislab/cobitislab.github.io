@@ -4,6 +4,7 @@
 ### Team leader
 **Karel Janko, PhD**
 [orcid](http://orcid.org/0000-0002-7866-4937) |
+[publons](https://publons.com/researcher/2521634/karel-janko/) |
 [scholar](https://scholar.google.com/citations?user=azHnMBgAAAAJ&hl=en&oi=ao) |
 [researchgate](https://www.researchgate.net/profile/Karel_Janko)
 

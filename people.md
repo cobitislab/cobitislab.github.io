@@ -8,8 +8,12 @@
 [scholar](https://scholar.google.com/citations?user=azHnMBgAAAAJ&hl=en&oi=ao) |
 [researchgate](https://www.researchgate.net/profile/Karel_Janko)
 
+***
+
 ### Postdocs
 **Dmytro Didukh, PhD**
+
+***
 
 ### PhD students
 **Jan Kočí**
@@ -26,6 +30,8 @@
 [researchgate](https://www.researchgate.net/profile/Jan_Roeslein)
 
 **Anatol Marta**
+
+***
 
 ### Collaborators
 **Lukáš Choleva, PhD (IAPG CAS)**

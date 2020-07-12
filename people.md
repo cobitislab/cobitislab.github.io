@@ -46,6 +46,9 @@
 **Jan Kotusz, PhD (University of Wroclaw)**
 [scholar](https://scholar.google.com/citations?user=pmbgn-kAAAAJ&hl=en)
 
+**Karel Halačka, PhD (IVB CAS)**
+[researcherID](https://publons.com/researcher/2526876/karel-halacka/)
+
 **Pavel Drozd, PhD (University of Ostrava)**
 [scholar](https://scholar.google.com/citations?user=JRjv9p0AAAAJ&hl=en)
 

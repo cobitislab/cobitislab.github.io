@@ -12,6 +12,7 @@
 
 ### Postdocs
 **Dmytro Didukh, PhD**
+[orcid](http://orcid.org/0000-0002-1152-813X)
 
 ***
 
@@ -38,12 +39,14 @@
 [scholar](https://scholar.google.com/citations?user=FH-hkZ8AAAAJ&hl=en)
 
 **Zuzana Majtánová, PhD (IAPG CAS)**
+[orcid](http://orcid.org/0000-0002-7100-2922) |
 [researchgate](https://www.researchgate.net/profile/Zuzana_Majtanova)
 
 **Jan Pačes, PhD (IMG CAS)**
 [orcid](http://orcid.org/0000-0003-3059-6127)
 
 **Jan Kotusz, PhD (University of Wroclaw)**
+[orcid](http://orcid.org/0000-0001-6229-7610) |
 [scholar](https://scholar.google.com/citations?user=pmbgn-kAAAAJ&hl=en)
 
 **Karel Halačka, PhD (IVB CAS)**
